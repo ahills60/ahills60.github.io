@@ -1,5 +1,5 @@
 ### Welcome to my GitHub user page.
-I'm Andrew Hills and I'm currently based in Sheffield, UK. I am a research associate at the [Department of Automatic Control and Systems Engineering](http://www.sheffield.ac.uk/acse/) at the [University of Sheffield](http://www.sheffield.ac.uk).
+I'm Andrew Hills and I'm currently based in Sheffield, UK. I am a research fellow at the [Department of Automatic Control and Systems Engineering](http://www.sheffield.ac.uk/acse/) at the [University of Sheffield](http://www.sheffield.ac.uk).
 
 My research interests are signal processing, machine learning, data mining and fault detection. When I'm not researching, I enjoy music, piano playing, photography, walking/hiking, food and reading. I'd love to do more travelling.
 
